@@ -1,0 +1,25 @@
+   [38;2;255;239;0m  [ LAYER4 METHODS ][0m
+
+  [34m| [36mOVH           [1;37mTcp optimized for OVH Bypass [90m          PERMISSIONS: [ [32mVIP[90m ][0m  
+  [34m| [36mDISCORD       [1;37mSDiscord bypass. [90m                      PERMISSIONS: [ [90mNON[90m ][0m  
+  [34m| [36mUDP-Packet    [1;37mUdp with Low Packets and Bypass. [90m      PERMISSIONS: [ [90mNON[90m ][0m  
+  [34m| [36mUDP-bypass    [1;37mUdp Flood With Valid Hex's [90m            PERMISSIONS: [ [32mVIP[90m ][0m  
+  [34m| [36mTCP           [1;37mSYN-ACK packets Flood. [90m      	         PERMISSIONS: [ [90mNON[90m ][0m  
+  [34m| [36mUDP           [1;37mRaw handshake method from botnet! [90m     PERMISSIONS: [ [90mNON[90m ][0m
+  [34m| [36mDNS     	  [1;37mDNS Protocol good for home and gb! [90m    PERMISSIONS: [ [32mVIP[90m ][0m    
+  [34m| [36mSADP    	  [1;37mSADP Protocol good for home and gb. [90m   PERMISSIONS: [ [32mVIP[90m ][0m    
+  [34m| [36mZombie    	  [1;37mzombie pps gbps and bypass. [90m     	 PERMISSIONS: [ [32mVIP[90m ][0m    
+  [34m| [36mOpenVpn    	  [1;37mBest method to disconnect VPN service.[90m PERMISSIONS: [ [32mVIP[90m ][0m    
+	
+  [38;2;255;239;0m[ LAYER7 METHODS ][0m
+  
+  [34m| [36mhttp-cf       [1;37mCloudfare method with 0% http-ddos![90m    PERMISSIONS: [ [32mVIP[90m ][0m  
+  [34m| [36mhttps-rps     [1;37mMethod for requests![90m                   PERMISSIONS: [ [90mNON[90m ][0m  
+
+  [38;2;255;239;0m[ GAME METHODS ][0m
+
+  [34m| [36mCoD-UDP 	  [1;37mCod-udp Bypass call of duty Server. [90m   PERMISSIONS: [ [32mVIP[90m ][0m 
+  [34m| [36mFN-CRASH      [1;37mFN-CRASH Crash & LAG Fortnite Server. [90m PERMISSIONS: [ [90mNON[90m ][0m  
+  [34m| [36mRocketleague-Crash[1;37m  For RocketLeague Servers [90m        PERMISSIONS: [ [32mVIP[90m ][0m  
+  [34m| [36mRL-Weed   	  [1;37mRL-Weed Service disconnection. [90m      	 PERMISSIONS: [ [90mNON[90m ][0m  
+  [34m| [36mFiveM   	  [1;37mFiveM Bypass FiveM Server. [90m     	 PERMISSIONS: [ [32mVIP[90m ][0m    
